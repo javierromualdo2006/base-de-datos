@@ -31,3 +31,5 @@
 9) SELECT title, rental_duration FROM film 
    ORDER BY rental_duration DESC LIMIT 1
    OFFSET 2
+
+10) 
